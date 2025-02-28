@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "488278735229",
+    "project_id": "jetpackworks",
+    "storage_bucket": "jetpackworks.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488278735229:android:5512b320c24d1563eff414",
+        "android_client_info": {
+          "package_name": "com.example.notesworkreply"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDOYytaxoNhG9K6heuBjpG9psqjG3dWlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
